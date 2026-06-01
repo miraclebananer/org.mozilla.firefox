@@ -43,7 +43,7 @@
     <content_attribute id="social-info">moderate</content_attribute>
   </content_rating>
   <releases>
-    <release version="148.0.2" date="2026-03-09">
+    <release version="151.0.2" date="2026-06-01">
       <description>
         <p>Latest stable release of Firefox with security updates and bug fixes.</p>
       </description>

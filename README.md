@@ -1,6 +1,6 @@
 # Firefox Web Browser Flatpak
 
-Flatpak package for Mozilla Firefox web browser (version 148.0.2).
+Flatpak package for Mozilla Firefox web browser 
 
 ## Status: Ready to Build
 
@@ -56,7 +56,6 @@ The flatpak has comprehensive permissions for full browser functionality:
 
 - **Runtime**: org.freedesktop.Platform 25.08
 - **SDK**: org.freedesktop.Sdk 25.08
-- **Firefox Version**: 148.0.2
 - **Architecture**: x86_64
 - **Locale**: en-US
 

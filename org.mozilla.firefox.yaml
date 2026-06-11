@@ -83,9 +83,9 @@ modules:
       
     sources:
       - type: archive
-        url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.2/linux-x86_64/en-US/firefox-151.0.2.tar.xz
-        sha256: 1f77a1aacc2a0ccbb36998875f04a9c22229103dc35cb4bbb89784f0809161e0
-        dest-filename: firefox-151.0.2.tar.xz
+        url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.4/linux-x86_64/en-US/firefox-151.0.4.tar.xz
+        sha256: 5fa872cb4845a52829fa58568c2901edcbda4b79ce466b4b9b09afe41cffcd9b
+        dest-filename: firefox-151.0.4.tar.xz
       
       - type: file
         path: org.mozilla.firefox.desktop

@@ -84,7 +84,7 @@ modules:
     sources:
       - type: archive
         url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/158.0/linux-x86_64/en-US/firefox-158.0.tar.xz
-        sha256: ad647ee920828da7495de7a5f3eb5ddad457b107e4932b3fac49ce700bbbb2b2
+        sha256: 9549b054ec4cf85f50f6a19d8c6fb79580312e71ebc4ec2cb217ec9af09dc12a
         dest-filename: firefox-158.0.tar.xz
       
       - type: file
